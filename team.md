@@ -2,7 +2,7 @@
 -------------------------
 
 ```javascript
-var team = [
+const team = [
   "Çağrı",
   "Deniz",
   "Doruk",
