@@ -5,6 +5,6 @@
 Access the slides from [here](https://docs.google.com/presentation/d/1_0fIQUEh0X9mh8UXgGOWYxRT21NyDe0E03MCuWmg7uI/edit?usp=sharingl) by clicking.
 
 ### 2. Project Specification Report
-Access the document from [here](/external/project-specification_craftual) by clicking.
+Access the document from [here](/external/project-specification_craftual.pdf) by clicking.
 
 
