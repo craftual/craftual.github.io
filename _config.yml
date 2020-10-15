@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: craftual
+description: Bilkent CS 491 Senior Design
+show_downloads: True
+navigation:
+  - title: Home
+    url: /
