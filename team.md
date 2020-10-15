@@ -1,7 +1,7 @@
 # Team
 -------------------------
 
-```javascript
+{% highlight js %}
 const team = [
   "Çağrı",
   "Deniz",
@@ -9,7 +9,7 @@ const team = [
   "Endri",
   "Umut"
 ];
-```
+{% endhighlight %}
 
 
 
