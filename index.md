@@ -8,6 +8,6 @@ Access the slides from [here](https://docs.google.com/presentation/d/1_0fIQUEh0X
 Access the document from [here](/external/project-specification_craftual.pdf) by clicking.
 
 ### 3. Project Analysis Report
-Access the document from [here] (/external/project-analysis_craftual.pdf) by clicking.
+Access the document from [here](/external/project-analysis_craftual.pdf) by clicking.
 
 
