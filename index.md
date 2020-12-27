@@ -10,6 +10,6 @@ Access the document from [here](/external/project-specification_craftual.pdf) by
 ### 3. Project Analysis Report
 Access the document from [here](/external/project-analysis_craftual.pdf) by clicking.
 
-### 3. High Level Design Report
+### 4. High Level Design Report
 Access the document from [here](/external/project-highleveldesign_craftual.pdf) by clicking.
 
